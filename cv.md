@@ -1,8 +1,8 @@
 Ivan Konik
 ---------
 
-Telegram: https://t.me/LilTomato  
-Mail: riverflow1928@yandex.ru
+Telegram: [https://t.me/LilTomato](https://t.me/LilTomato)  
+Mail: [riverflow1928@yandex.ru](mailto:riverflow1928@yandex.ru)
 
 Summary
 ---------
@@ -22,7 +22,7 @@ Skills
 Code Examples
 ---------
 
-https://github.com/console1928/example
+[https://github.com/console1928/example](https://github.com/console1928/example)
 
 Experience
 ---------
@@ -54,5 +54,5 @@ English
 My profiles
 ---------
 
-GitHub: https://github.com/console1928  
-Codewars: https://www.codewars.com/users/console1928
+GitHub: [https://github.com/console1928](https://github.com/console1928)  
+Codewars: [https://www.codewars.com/users/console1928](https://www.codewars.com/users/console1928)
