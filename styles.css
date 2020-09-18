@@ -1,0 +1,103 @@
+html {
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245 245 245);
+    color: #333333;
+}
+
+main {
+    max-width: 1024px;
+    margin: 20px auto;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px rgba(0,0,0,.15), 0 2px 3px rgba(0,0,0,.2);
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+p {
+    color: #00000099;
+}
+
+a {
+    text-decoration: none;
+    color: #0078d4;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.photo-wrapper {
+    width: 160px;
+    height: 160px;
+    box-sizing: border-box;
+    background-clip: content-box;
+    border: 4px solid var(--white,#fff);
+    border-radius: 50%;
+    box-shadow: inset 0 1.5px 3px 0 rgba(0,0,0,.15), 0 1.5px 3px 0 rgba(0,0,0,.15);
+}
+
+.photo {
+    width: 152px;
+    height: 152px;
+    border-radius: 50%;
+}
+
+.social-profile-img {
+    width: 20px;
+    height: 20px;
+    opacity: 0.5;
+    transition: 0.4s;
+}
+
+.social-profile-img:hover {
+    opacity: 0.8;
+}
+
+.section-summary {
+    background: linear-gradient(180deg, #0078d4 0%, #17a2b8 150px, #ffffff 150px);
+}
+
+.section-skills-item,
+.section-experience-item,
+.section-education-item {
+    padding: 16px 0 12px;
+    font-weight: 600;
+}
+
+.section-skills-item div,
+.section-experience-item div,
+.section-education-item div {
+    margin-bottom: 5px;
+}
+
+.section-skills-item:not(:last-child),
+.section-experience-item:not(:last-child),
+.section-education-item:not(:last-child) {
+    border-bottom: 1px solid rgb(230 233 236);
+}
+
+.section-experience-item div:nth-child(2),
+.section-experience-item div:nth-child(3),
+.section-education-item div:nth-child(2),
+.section-education-item div:nth-child(3) {
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+.section-experience-item div:nth-child(3),
+.section-education-item div:nth-child(3) {
+    opacity: 0.8;
+}
